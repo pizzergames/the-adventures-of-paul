@@ -1,0 +1,13 @@
+pygame-ce
+pynput
+termcolor
+pywin32
+pycparser
+keyboard
+wmi
+moderngl
+numpy
+psutil
+pymsgbox
+glcontext
+fuckit
