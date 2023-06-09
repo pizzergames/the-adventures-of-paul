@@ -1,0 +1,33 @@
+// Includes information onm how it works
+
+{
+    "name": "Your Mom",
+    "images": [
+        "path\to\image.png",
+        "path\to\image2.png"
+    ],
+    "options": [
+        [
+            "Hell yea",
+            "Ain't no way"
+        ]
+    ],
+    "texts": [
+        "You wanna marry me?"
+    ],
+    "order": [ // Main branch
+        0, // image index from list above
+        0, // dialog index from list above
+        0, // Dialog options index from list above
+        "Hell Yeah" : [ // IF player CHose option "Hell Yeah", this will run
+            // same stuff as before
+        ],
+        "AIn't no way": [ // If the Polayer chose option "Ain't no way", this wil run
+            // same stuff as before
+        ]
+    ]
+}
+
+Commands are:
+"exit" exits dialog
+"set": {"name": value, "another_name": another_value} sets variables

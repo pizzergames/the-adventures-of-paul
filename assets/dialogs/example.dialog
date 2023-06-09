@@ -1,0 +1,38 @@
+{
+    "name": "Your Mom",
+    "images": [
+        "path\to\image.png",
+        "path\to\image2.png"
+    ],
+    "options": [
+        [
+            "Hell yea",
+            "Ain't no way"
+        ],
+        [
+            "bye, bitch"
+        ]
+    ],
+    "texts": [
+        "You wanna marry me?",
+        "bye"
+    ],
+    "order": [ // Main branch
+        0, // image index from list above
+        0, // dialog index from list above
+        0, // Dialog options index from list above
+        "Hell Yeah" : [ // IF player CHose option "Hell Yeah", this will run
+            1,
+            1,
+            1,
+            "set": {"married": true},
+            "exit"
+        ],
+        "Ain't no way": [ // If the Polayer chose option "Ain't no way", this wil run
+            0,
+            1,
+            1,
+            "exit"
+        ]
+    ]
+}
