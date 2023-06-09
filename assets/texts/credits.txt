@@ -1,0 +1,30 @@
+Thank you for Playing my Game!
+
+Obviously, i couldn't do this all alone.
+So credits go to:
+
+My friends, Paul and Arno: Playtesting
+Waluchadji:                Titlescreen music
+Boss theme: Super Mario World 2: Yoshi's Island bowser theme restored by shutdown
+Inspiration:
+    -Pokemon
+    -Super Mario
+
+The AMAZING soundtracks:
+    -Sweden (from Minecraft) (Made by C418, 8-bit remix mady by b!tn00b)
+Programs Used:
+
+ix00
+
+Audacity:           Audio Editing
+
+ix01
+
+FamiStudio:         Making Music
+
+ix02
+
+Visual Studio Code: Programming
+
+Developing involved a lot of depression, crack and
+losing my will to live
